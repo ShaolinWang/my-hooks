@@ -1,0 +1,15 @@
+{
+	"presets": [
+		[
+			"@babel/env",
+			{
+				"loose": true,
+				"modules": false,
+				"targets": "> 0.25%, not dead",
+				"useBuiltIns": "usage"
+			}
+		]
+	],
+	"include": "**/*.js",
+	"exclude": "**/*.ts"
+}
