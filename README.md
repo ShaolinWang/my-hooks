@@ -6,3 +6,4 @@ some useful custom react hooks wrote and used in project
 - [x] useForceUpdate
 - [x] usePromise
 - [x] usePortal
+- [x] useTipsOnce
